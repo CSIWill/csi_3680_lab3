@@ -1,0 +1,12 @@
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab3/eng_Script1.py
+Password Strength Checker
+Enter a password: csi_3680
+Password is STRONG
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab3/eng_Script1.py
+Password Strength Checker
+Enter a password: csii3680
+Password is GOOD
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab3/eng_Script1.py
+Password Strength Checker
+Enter a password: 36803680    
+Password is WEAK

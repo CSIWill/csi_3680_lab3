@@ -1,0 +1,16 @@
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab3/eng_Script3.py
+******Potential Clients******
+    (file size, file name)    
+     94         JoslynJ.txt
+     82         BrodyB.txt
+     62         GraceG.txt
+     68         DennisD.txt
+    109          IvyI.txt 
+     94         HelenH.txt
+     85         FayeF.txt 
+     75         AaronA.txt
+    117         EasonE.txt
+    125         ClintC.txt
+***Total size of items: 911***
+Potential users: ['Brody B', 'Helen H', 'Dennis D', 'Ivy I', 'Faye F', 'Eason E', 'Clint C']
+The email list is: ['brody_b@example.com', 'heyhelen@example.com', 'denis_%d%@example.com', 'iamivy2000@example.edu.cn', 'faye-f@example.edu.fr', 'e132_eason@www.example.edu.au', 'ccc0921@example.edu']
